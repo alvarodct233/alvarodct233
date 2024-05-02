@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, next.js, node, testing...**
 
-- 📫 How to reach me **Alvarodt23@gmail.com**
+- 📫 How to reach me **Alvarodct23@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1AdUWO5gCO3TxTSYr4ZiQdoT3PDtkBFe_arsQ2lLz248/edit?usp=drive_link]
 <h3 align="left">Connect with me:</h3>
