@@ -9,10 +9,10 @@
 
 - 📫 How to reach me **Alvarodt23@gmail.com**
 
-- 📄 Know about my experiences [[[https://docs.google.com/document/d/e/2PACX-1vS8gRCjWA-xrIjxXCACaho7CHmP2BAiFs9xKsr7mmRQCghKQ2jwhdiOEc_w552oPl5Hbnvq65lPtV43/pub](https://docs.google.com/document/d/e/2PACX-1vQ3DTtHsstBEw82DGMdzXubabr5UrOnwTVErDBf3SaKD4USjq1qpYHw7XUldMZQJxaYUQYfsiaMNwfS/pub)]
+- 📄 Know about my experiences [https://docs.google.com/document/d/1AdUWO5gCO3TxTSYr4ZiQdoT3PDtkBFe_arsQ2lLz248/edit?usp=drive_link]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/juan azula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan azula" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alvaro-del-cacho-tena/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan azula" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
