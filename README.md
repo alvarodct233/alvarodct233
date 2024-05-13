@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Alvarodct23@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1AdUWO5gCO3TxTSYr4ZiQdoT3PDtkBFe_arsQ2lLz248/edit?usp=drive_link]
+- 📄 Know about my experiences [file:///C:/Users/alvar/Downloads/Alvaro%20del%20cacho%20tena%20CV.pdf] [file:///C:/Users/alvar/Downloads/Alvaro%20English%20CV.pdf]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alvaro-del-cacho-tena/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan azula" height="30" width="40" /></a>
